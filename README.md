@@ -775,6 +775,8 @@ Output
 ```
 (1000, 5)
 ```
+#### Excel Format
+![image](https://github.com/nnannaeze/Books-Web-Scraping-Project/assets/148848746/9e15080d-018d-42ed-87ba-7f150091bf7b)
 ## Conclusion:
 
 The web scraping project aimed at extracting critical information from a book retailer’s website has been successfully completed. The tool developed for this purpose has proven to be highly effective in navigating the website, identifying, and retrieving data on book titles, prices, stock levels, and URLs. The accuracy and reliability of the data collected are commendable, reflecting the tool’s robustness against potential challenges such as website layout changes.
